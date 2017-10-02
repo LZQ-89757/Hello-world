@@ -1,9 +1,16 @@
 # Hello-world
 第一次使用Github
-使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML[^2], 你可以使用 Leanote[^L] 编辑器进行书写。
 
-[^1]:Markdown是一种纯文本标记语言
+[Google][gg]--[Baidu][2]--[Apple][3]
 
-[^2]:HyperText Markup Language 超文本标记语言
+[gg]: http://google.com/ "Google"
+[2]: http://baidu.com/ "Baidu"
+[3]: http://apple.com.cn/ "Apple"
 
-[^L]:开源笔记平台，支持Markdown和笔记直接发为博文
+
+```
+#include <stdio.h>
+int main(void)
+{
+    printf("Hello world\n");
+}
